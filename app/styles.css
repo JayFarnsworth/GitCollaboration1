@@ -8,12 +8,16 @@ header {
   color: blue;
   font-size: 5vh;
   background-color: aqua;
+  border-bottom: 0.3rem solid darkgrey;
 }
 
 h1 {
   grid-column: 1/span 2;
-  margin-left: 1rem;
+  margin-left: 5rem;
   color: orange;
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
 }
 
 nav {
@@ -23,5 +27,5 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+  font-size: 5rem;
 }
