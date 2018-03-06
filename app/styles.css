@@ -4,6 +4,10 @@ header {
   grid-gap: 10px;
   align-items: end;
   border-bottom: .3rem solid darkgrey;
+  margin: 1vw;
+  color: blue;
+  font-size: 5vh;
+  background-color: aqua;
 }
 
 h1 {
